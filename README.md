@@ -1,6 +1,6 @@
 # Nang Ying Noom Lao
 
-Backend & AI intern · 3rd-year CS · Bangkok 🇹🇭
+Backend & AI intern · 3rd-year ICT· Bangkok 🇹🇭
 
 I focus on making **LLM agents actually reliable** — the retrieval, the guardrails,
 and the tests that keep an AI assistant from making things up or breaking on bad input.
