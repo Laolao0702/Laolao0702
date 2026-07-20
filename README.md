@@ -6,7 +6,7 @@ I focus on making **LLM agents actually reliable** — the retrieval, the guardr
 and the tests that keep an AI assistant from making things up or breaking on bad input.
 
 ## 🤖 What I build
-- **Multi-agent assistants** with LangGraph (a supervisor routing to FAQ / Search / Booking specialists)
+- **Multi-agent assistants** with LangGraph
 - **Retrieval-augmented answers** over PostgreSQL + pgvector (semantic + fuzzy + exact, fused)
 - **Guardrails & evaluation** — prompt-injection defense, faithful-relay prompts, hermetic + live tests
 
